@@ -1,0 +1,8 @@
+{
+  "driving_style": "eco",
+  "environment": "city",
+  "preferred_time_slots": [
+    "Monday 5 pm",
+    "Tuesday 7 pm"
+  ]
+}

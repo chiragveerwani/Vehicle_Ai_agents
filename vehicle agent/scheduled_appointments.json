@@ -1,0 +1,95 @@
+[
+  {
+    "week": 32,
+    "slot": "Mon 10:00 AM",
+    "services": [
+      "fuel_efficiency"
+    ],
+    "estimated_cost": 1500,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Wed 11:00 AM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Mon 10:00 AM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Thu 02:00 PM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Sat 01:00 PM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Wed 11:00 AM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Mon 10:00 AM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  },
+  {
+    "week": 60,
+    "slot": "Mon 10:00 AM",
+    "services": [
+      "emission",
+      "brake_condition",
+      "fuel_efficiency",
+      "general_score"
+    ],
+    "estimated_cost": 7000,
+    "confirmed": true
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-08-02 17:23:11.124952",
+  "week": 60,
+  "vehicle_data": {
+    "emission": 42.0,
+    "tire_wear": 37.28,
+    "brake_condition": 30.17,
+    "fuel_efficiency": 8.71,
+    "spark_plug_health": 64.83,
+    "general_score": 44.6
+  },
+  "alerts": []
+}

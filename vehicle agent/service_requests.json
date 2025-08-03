@@ -1,0 +1,10 @@
+{
+  "week": 60,
+  "timestamp": "2025-08-02 17:23:11.124952",
+  "required_services": [
+    "emission",
+    "brake_condition",
+    "fuel_efficiency",
+    "general_score"
+  ]
+}

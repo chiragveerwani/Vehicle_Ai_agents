@@ -1,0 +1,11 @@
+{
+  "60": {
+    "avg_fuel_drop": 0.8,
+    "avg_brake_drop": 3.96,
+    "avg_general_score": 45.92,
+    "tips": [
+      "Brake condition fell >3% — avoid hard braking to extend pad life."
+    ],
+    "badges": []
+  }
+}

@@ -1,0 +1,782 @@
+[
+  {
+    "timestamp": "2025-08-02 17:21:03.811788",
+    "week": 1,
+    "vehicle_data": {
+      "emission": 97.67,
+      "tire_wear": 1.4,
+      "brake_condition": 90.1,
+      "fuel_efficiency": 21.95,
+      "spark_plug_health": 97.4,
+      "general_score": 84.86
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:05.816509",
+    "week": 2,
+    "vehicle_data": {
+      "emission": 96.73,
+      "tire_wear": 2.02,
+      "brake_condition": 88.82,
+      "fuel_efficiency": 21.67,
+      "spark_plug_health": 96.78,
+      "general_score": 84.09
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:07.832180",
+    "week": 3,
+    "vehicle_data": {
+      "emission": 95.79,
+      "tire_wear": 2.53,
+      "brake_condition": 88.03,
+      "fuel_efficiency": 21.51,
+      "spark_plug_health": 96.18,
+      "general_score": 83.46
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:09.851839",
+    "week": 4,
+    "vehicle_data": {
+      "emission": 94.87,
+      "tire_wear": 3.22,
+      "brake_condition": 87.14,
+      "fuel_efficiency": 21.3,
+      "spark_plug_health": 95.61,
+      "general_score": 82.8
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:11.939832",
+    "week": 5,
+    "vehicle_data": {
+      "emission": 93.82,
+      "tire_wear": 3.9,
+      "brake_condition": 86.12,
+      "fuel_efficiency": 21.1,
+      "spark_plug_health": 95.1,
+      "general_score": 82.1
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:14.119633",
+    "week": 6,
+    "vehicle_data": {
+      "emission": 92.91,
+      "tire_wear": 4.55,
+      "brake_condition": 85.32,
+      "fuel_efficiency": 20.87,
+      "spark_plug_health": 94.57,
+      "general_score": 81.47
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:16.719057",
+    "week": 7,
+    "vehicle_data": {
+      "emission": 92.12,
+      "tire_wear": 5.07,
+      "brake_condition": 84.51,
+      "fuel_efficiency": 20.69,
+      "spark_plug_health": 94.14,
+      "general_score": 80.91
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:18.849556",
+    "week": 8,
+    "vehicle_data": {
+      "emission": 91.07,
+      "tire_wear": 5.72,
+      "brake_condition": 83.65,
+      "fuel_efficiency": 20.43,
+      "spark_plug_health": 93.54,
+      "general_score": 80.21
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:21.025744",
+    "week": 9,
+    "vehicle_data": {
+      "emission": 89.96,
+      "tire_wear": 6.23,
+      "brake_condition": 82.42,
+      "fuel_efficiency": 20.18,
+      "spark_plug_health": 93.13,
+      "general_score": 79.51
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:23.336757",
+    "week": 10,
+    "vehicle_data": {
+      "emission": 88.94,
+      "tire_wear": 6.8,
+      "brake_condition": 81.13,
+      "fuel_efficiency": 20.01,
+      "spark_plug_health": 92.45,
+      "general_score": 78.73
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:25.465874",
+    "week": 11,
+    "vehicle_data": {
+      "emission": 88.06,
+      "tire_wear": 7.32,
+      "brake_condition": 80.01,
+      "fuel_efficiency": 19.72,
+      "spark_plug_health": 92.02,
+      "general_score": 78.08
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:27.867029",
+    "week": 12,
+    "vehicle_data": {
+      "emission": 86.9,
+      "tire_wear": 7.93,
+      "brake_condition": 78.88,
+      "fuel_efficiency": 19.5,
+      "spark_plug_health": 91.39,
+      "general_score": 77.31
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:30.054821",
+    "week": 13,
+    "vehicle_data": {
+      "emission": 85.92,
+      "tire_wear": 8.57,
+      "brake_condition": 78.08,
+      "fuel_efficiency": 19.24,
+      "spark_plug_health": 90.86,
+      "general_score": 76.66
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:32.150261",
+    "week": 14,
+    "vehicle_data": {
+      "emission": 85.05,
+      "tire_wear": 9.08,
+      "brake_condition": 77.12,
+      "fuel_efficiency": 19.07,
+      "spark_plug_health": 90.28,
+      "general_score": 76.02
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:34.488083",
+    "week": 15,
+    "vehicle_data": {
+      "emission": 83.91,
+      "tire_wear": 9.68,
+      "brake_condition": 76.06,
+      "fuel_efficiency": 18.83,
+      "spark_plug_health": 89.85,
+      "general_score": 75.32
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:36.587812",
+    "week": 16,
+    "vehicle_data": {
+      "emission": 83.18,
+      "tire_wear": 10.29,
+      "brake_condition": 75.21,
+      "fuel_efficiency": 18.55,
+      "spark_plug_health": 89.35,
+      "general_score": 74.72
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:38.720125",
+    "week": 17,
+    "vehicle_data": {
+      "emission": 82.31,
+      "tire_wear": 10.99,
+      "brake_condition": 74.15,
+      "fuel_efficiency": 18.3,
+      "spark_plug_health": 88.67,
+      "general_score": 73.99
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:40.782927",
+    "week": 18,
+    "vehicle_data": {
+      "emission": 81.58,
+      "tire_wear": 11.71,
+      "brake_condition": 73.36,
+      "fuel_efficiency": 18.08,
+      "spark_plug_health": 88.12,
+      "general_score": 73.38
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:42.921981",
+    "week": 19,
+    "vehicle_data": {
+      "emission": 80.83,
+      "tire_wear": 12.42,
+      "brake_condition": 72.56,
+      "fuel_efficiency": 17.79,
+      "spark_plug_health": 87.55,
+      "general_score": 72.75
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:45.102500",
+    "week": 20,
+    "vehicle_data": {
+      "emission": 79.9,
+      "tire_wear": 13.09,
+      "brake_condition": 71.55,
+      "fuel_efficiency": 17.58,
+      "spark_plug_health": 87.07,
+      "general_score": 72.09
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:47.282751",
+    "week": 21,
+    "vehicle_data": {
+      "emission": 79.14,
+      "tire_wear": 13.69,
+      "brake_condition": 70.75,
+      "fuel_efficiency": 17.32,
+      "spark_plug_health": 86.51,
+      "general_score": 71.48
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:49.466994",
+    "week": 22,
+    "vehicle_data": {
+      "emission": 78.34,
+      "tire_wear": 14.37,
+      "brake_condition": 69.64,
+      "fuel_efficiency": 17.16,
+      "spark_plug_health": 85.82,
+      "general_score": 70.76
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:51.581233",
+    "week": 23,
+    "vehicle_data": {
+      "emission": 77.46,
+      "tire_wear": 15.0,
+      "brake_condition": 68.54,
+      "fuel_efficiency": 16.98,
+      "spark_plug_health": 85.23,
+      "general_score": 70.07
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:53.719214",
+    "week": 24,
+    "vehicle_data": {
+      "emission": 76.45,
+      "tire_wear": 15.71,
+      "brake_condition": 67.59,
+      "fuel_efficiency": 16.72,
+      "spark_plug_health": 84.6,
+      "general_score": 69.34
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:55.834018",
+    "week": 25,
+    "vehicle_data": {
+      "emission": 75.33,
+      "tire_wear": 16.26,
+      "brake_condition": 66.77,
+      "fuel_efficiency": 16.51,
+      "spark_plug_health": 83.93,
+      "general_score": 68.64
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:21:57.975676",
+    "week": 26,
+    "vehicle_data": {
+      "emission": 74.25,
+      "tire_wear": 16.77,
+      "brake_condition": 65.79,
+      "fuel_efficiency": 16.3,
+      "spark_plug_health": 83.35,
+      "general_score": 67.94
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:00.081270",
+    "week": 27,
+    "vehicle_data": {
+      "emission": 73.18,
+      "tire_wear": 17.44,
+      "brake_condition": 64.82,
+      "fuel_efficiency": 16.08,
+      "spark_plug_health": 82.68,
+      "general_score": 67.2
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:02.252169",
+    "week": 28,
+    "vehicle_data": {
+      "emission": 72.1,
+      "tire_wear": 18.02,
+      "brake_condition": 63.86,
+      "fuel_efficiency": 15.8,
+      "spark_plug_health": 82.04,
+      "general_score": 66.47
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:04.286163",
+    "week": 29,
+    "vehicle_data": {
+      "emission": 71.06,
+      "tire_wear": 18.52,
+      "brake_condition": 62.98,
+      "fuel_efficiency": 15.53,
+      "spark_plug_health": 81.39,
+      "general_score": 65.78
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:06.303855",
+    "week": 30,
+    "vehicle_data": {
+      "emission": 69.96,
+      "tire_wear": 19.24,
+      "brake_condition": 62.04,
+      "fuel_efficiency": 15.25,
+      "spark_plug_health": 80.69,
+      "general_score": 65.01
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:08.407442",
+    "week": 31,
+    "vehicle_data": {
+      "emission": 68.87,
+      "tire_wear": 19.93,
+      "brake_condition": 61.06,
+      "fuel_efficiency": 15.09,
+      "spark_plug_health": 80.21,
+      "general_score": 64.32
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:10.533975",
+    "week": 32,
+    "vehicle_data": {
+      "emission": 68.11,
+      "tire_wear": 20.45,
+      "brake_condition": 60.01,
+      "fuel_efficiency": 14.84,
+      "spark_plug_health": 79.77,
+      "general_score": 63.71
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:12.588532",
+    "week": 33,
+    "vehicle_data": {
+      "emission": 67.21,
+      "tire_wear": 21.09,
+      "brake_condition": 58.88,
+      "fuel_efficiency": 14.68,
+      "spark_plug_health": 79.14,
+      "general_score": 63.0
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:14.813175",
+    "week": 34,
+    "vehicle_data": {
+      "emission": 66.23,
+      "tire_wear": 21.72,
+      "brake_condition": 57.75,
+      "fuel_efficiency": 14.44,
+      "spark_plug_health": 78.58,
+      "general_score": 62.28
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:16.938494",
+    "week": 35,
+    "vehicle_data": {
+      "emission": 65.33,
+      "tire_wear": 22.38,
+      "brake_condition": 56.47,
+      "fuel_efficiency": 14.25,
+      "spark_plug_health": 78.01,
+      "general_score": 61.54
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:19.096025",
+    "week": 36,
+    "vehicle_data": {
+      "emission": 64.57,
+      "tire_wear": 22.96,
+      "brake_condition": 55.67,
+      "fuel_efficiency": 14.02,
+      "spark_plug_health": 77.56,
+      "general_score": 60.98
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:21.216295",
+    "week": 37,
+    "vehicle_data": {
+      "emission": 63.62,
+      "tire_wear": 23.51,
+      "brake_condition": 54.46,
+      "fuel_efficiency": 13.82,
+      "spark_plug_health": 76.91,
+      "general_score": 60.24
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:23.365891",
+    "week": 38,
+    "vehicle_data": {
+      "emission": 62.86,
+      "tire_wear": 23.99,
+      "brake_condition": 53.58,
+      "fuel_efficiency": 13.61,
+      "spark_plug_health": 76.36,
+      "general_score": 59.64
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:25.536712",
+    "week": 39,
+    "vehicle_data": {
+      "emission": 61.81,
+      "tire_wear": 24.67,
+      "brake_condition": 52.56,
+      "fuel_efficiency": 13.38,
+      "spark_plug_health": 75.92,
+      "general_score": 58.96
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:27.652310",
+    "week": 40,
+    "vehicle_data": {
+      "emission": 60.88,
+      "tire_wear": 25.36,
+      "brake_condition": 51.39,
+      "fuel_efficiency": 13.1,
+      "spark_plug_health": 75.45,
+      "general_score": 58.25
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:29.736547",
+    "week": 41,
+    "vehicle_data": {
+      "emission": 60.02,
+      "tire_wear": 26.02,
+      "brake_condition": 50.24,
+      "fuel_efficiency": 12.91,
+      "spark_plug_health": 74.76,
+      "general_score": 57.51
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:31.902570",
+    "week": 42,
+    "vehicle_data": {
+      "emission": 59.19,
+      "tire_wear": 26.7,
+      "brake_condition": 49.22,
+      "fuel_efficiency": 12.64,
+      "spark_plug_health": 74.17,
+      "general_score": 56.82
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:33.989148",
+    "week": 43,
+    "vehicle_data": {
+      "emission": 58.21,
+      "tire_wear": 27.19,
+      "brake_condition": 48.2,
+      "fuel_efficiency": 12.43,
+      "spark_plug_health": 73.75,
+      "general_score": 56.19
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:36.218042",
+    "week": 44,
+    "vehicle_data": {
+      "emission": 57.16,
+      "tire_wear": 27.86,
+      "brake_condition": 47.04,
+      "fuel_efficiency": 12.26,
+      "spark_plug_health": 73.26,
+      "general_score": 55.48
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:38.514064",
+    "week": 45,
+    "vehicle_data": {
+      "emission": 56.42,
+      "tire_wear": 28.43,
+      "brake_condition": 45.85,
+      "fuel_efficiency": 12.06,
+      "spark_plug_health": 72.81,
+      "general_score": 54.84
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:41.005278",
+    "week": 46,
+    "vehicle_data": {
+      "emission": 55.57,
+      "tire_wear": 29.08,
+      "brake_condition": 45.04,
+      "fuel_efficiency": 11.83,
+      "spark_plug_health": 72.34,
+      "general_score": 54.24
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:43.113914",
+    "week": 47,
+    "vehicle_data": {
+      "emission": 54.55,
+      "tire_wear": 29.61,
+      "brake_condition": 43.91,
+      "fuel_efficiency": 11.55,
+      "spark_plug_health": 71.69,
+      "general_score": 53.49
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:45.253829",
+    "week": 48,
+    "vehicle_data": {
+      "emission": 53.68,
+      "tire_wear": 30.09,
+      "brake_condition": 42.98,
+      "fuel_efficiency": 11.31,
+      "spark_plug_health": 71.14,
+      "general_score": 52.85
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:47.496487",
+    "week": 49,
+    "vehicle_data": {
+      "emission": 52.48,
+      "tire_wear": 30.79,
+      "brake_condition": 41.84,
+      "fuel_efficiency": 11.14,
+      "spark_plug_health": 70.61,
+      "general_score": 52.1
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:49.642318",
+    "week": 50,
+    "vehicle_data": {
+      "emission": 51.71,
+      "tire_wear": 31.29,
+      "brake_condition": 40.54,
+      "fuel_efficiency": 10.85,
+      "spark_plug_health": 70.15,
+      "general_score": 51.43
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:51.759672",
+    "week": 51,
+    "vehicle_data": {
+      "emission": 50.69,
+      "tire_wear": 31.89,
+      "brake_condition": 39.62,
+      "fuel_efficiency": 10.59,
+      "spark_plug_health": 69.62,
+      "general_score": 50.75
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:53.896992",
+    "week": 52,
+    "vehicle_data": {
+      "emission": 49.78,
+      "tire_wear": 32.43,
+      "brake_condition": 38.79,
+      "fuel_efficiency": 10.4,
+      "spark_plug_health": 69.12,
+      "general_score": 50.15
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:56.022802",
+    "week": 53,
+    "vehicle_data": {
+      "emission": 48.94,
+      "tire_wear": 32.92,
+      "brake_condition": 37.72,
+      "fuel_efficiency": 10.16,
+      "spark_plug_health": 68.59,
+      "general_score": 49.5
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:22:58.192915",
+    "week": 54,
+    "vehicle_data": {
+      "emission": 47.88,
+      "tire_wear": 33.59,
+      "brake_condition": 36.47,
+      "fuel_efficiency": 9.96,
+      "spark_plug_health": 67.92,
+      "general_score": 48.7
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:23:00.330523",
+    "week": 55,
+    "vehicle_data": {
+      "emission": 46.75,
+      "tire_wear": 34.17,
+      "brake_condition": 35.27,
+      "fuel_efficiency": 9.75,
+      "spark_plug_health": 67.51,
+      "general_score": 47.99
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:23:02.470097",
+    "week": 56,
+    "vehicle_data": {
+      "emission": 45.66,
+      "tire_wear": 34.74,
+      "brake_condition": 34.13,
+      "fuel_efficiency": 9.51,
+      "spark_plug_health": 66.84,
+      "general_score": 47.23
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:23:04.583139",
+    "week": 57,
+    "vehicle_data": {
+      "emission": 44.76,
+      "tire_wear": 35.43,
+      "brake_condition": 33.04,
+      "fuel_efficiency": 9.33,
+      "spark_plug_health": 66.39,
+      "general_score": 46.56
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:23:06.721248",
+    "week": 58,
+    "vehicle_data": {
+      "emission": 43.9,
+      "tire_wear": 36.1,
+      "brake_condition": 32.05,
+      "fuel_efficiency": 9.15,
+      "spark_plug_health": 65.86,
+      "general_score": 45.91
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:23:08.967188",
+    "week": 59,
+    "vehicle_data": {
+      "emission": 43.01,
+      "tire_wear": 36.64,
+      "brake_condition": 31.13,
+      "fuel_efficiency": 8.89,
+      "spark_plug_health": 65.39,
+      "general_score": 45.28
+    },
+    "alerts": []
+  },
+  {
+    "timestamp": "2025-08-02 17:23:11.124952",
+    "week": 60,
+    "vehicle_data": {
+      "emission": 42.0,
+      "tire_wear": 37.28,
+      "brake_condition": 30.17,
+      "fuel_efficiency": 8.71,
+      "spark_plug_health": 64.83,
+      "general_score": 44.6
+    },
+    "alerts": []
+  }
+]
