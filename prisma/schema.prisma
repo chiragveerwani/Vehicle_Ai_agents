@@ -1,0 +1,30 @@
+// schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id          String      @id @default(uuid())
+  email       String      @unique
+  password    String
+  name        String?     // optional or required depending on your design
+
+  preference  Preference? // no fields/references here: relation accessed implicitly
+}
+
+model Preference {
+  id                 String   @id @default(uuid())
+  userId             String   @unique
+  user               User     @relation(fields: [userId], references: [id])
+
+  drivingStyle       String?
+  environment        String?
+  preferredTimeSlots Json?    // store array as JSON
+}
+
